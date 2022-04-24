@@ -1,0 +1,12 @@
+{
+    "name": "frsco/test1_student",
+    "require": {
+        "composer/composer": "^2.3"
+    },
+    "authors": [
+        {
+            "name": "FRSCO",
+            "email": "frscollo@hotmail.it"
+        }
+    ]
+}
