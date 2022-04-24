@@ -1,0 +1,44 @@
+
+/* Iphone and Smartphones */
+
+@media (max-width: 600px) {
+h2.center{
+	        text-align: center;
+}
+	
+button.btn.btn-success.link {
+	        margin-left: 120px;
+	        margin-bottom: 10px;
+}
+button.btn.btn-success.link1 {
+	        margin-left: 120px;
+	        margin-bottom: 10px;
+}
+
+}
+@media (max-height:  400px)  {
+h2.center{
+	       text-align: center;
+}     
+button.btn.btn-success.link {
+	        margin-left: 280px;
+	        margin-bottom: 10px;
+}
+button.btn.btn-success.link1 {
+	        margin-left: 280px;
+	        
+}
+
+
+}
+
+/* Ipad and Ipad pro */
+@media (min-width: 700px) and (max-width:1024px ) {
+
+ 
+button.btn.btn-success.link1 {
+	        margin-left: 25px;
+	       
+}
+
+}

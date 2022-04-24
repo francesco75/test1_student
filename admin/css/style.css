@@ -1,0 +1,344 @@
+
+.admin-photo-thumbnail{
+
+width: 200px;
+border-radius: 5px;
+
+
+}
+
+.user_image{
+      width: 262px;
+      height: 262px;      
+}
+
+
+
+
+.jumbotron {
+	     background-color: #ffffff;
+       background-image: url("../images/classroom.jpg");
+       background-size: cover;
+       background-position: center; 
+
+}
+
+
+.test1{
+            color: #D80F0F;
+            font-family: "Roboto", Sans-serif;
+            font-size: 56px;
+            font-weight: 600;
+            line-height: 1.3em;
+            background-color: #fff;
+
+}
+h2{
+	       font-feature-settings: "lnum";
+           font-variant-numeric: lining-nums;
+           letter-spacing: -0.0415625em;
+           border: none;
+           text-align: inherit;
+}
+.general{
+	      font-family: "Roboto";
+	      font-size:48px;
+	      font-weight:600;  
+	      margin:78px;
+	      padding-top:100px;
+	      text-align: center;
+	      color: #000;
+	      
+	      
+
+	      
+}
+.general1{
+	      position: relative;
+	      font-family: "Roboto";
+	      font-size:31px;
+	      font-weight:600;  
+	      margin:78px;
+	      padding-top:100px;
+	      text-align: center;
+	      color: #000;
+	      
+	      
+	      
+}
+
+.general2{
+	      
+	      font-size:48px;
+	      position: relative;
+        color: #000000;
+        font-family: "Roboto", Sans-serif;
+        font-weight: 600;
+	      margin:78px;
+	      padding-top:100px;
+	      text-align: center;
+
+	      
+	     
+	      
+}
+
+.wrapper1{
+          background-image: url("../images/math.jpg"); 
+          background-size: cover;
+          background-position: center;
+          opacity: 1;
+          width: 300px;
+          height: 200px;
+          transition: .3s;
+          
+
+           }
+.wrapper2{
+          background-image: url("../images/history.jpg"); 
+          background-size: cover;
+          background-position: center;
+          opacity: 1;
+          width: 300px;
+          height: 200px;
+          transition: .3s;
+          
+}
+.wrapper3{
+        position: relative;
+	      background-color: #020101;
+          background-image: url("../images/geography.jpg");
+          background-size: cover;
+          background-position:center;
+          opacity: 1;
+          width: 300px;
+          height: 200px;
+          transition: .3s;
+          
+}
+.overlay{ 	
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #8D5959;
+  opacity: 0.5;
+  transition: .3s;
+
+
+}
+.overlay3{   
+  position: absolute;
+  top:0;
+  width: 100%;
+  height: 100%;
+  background-color: #eaf4d3;
+  opacity: 0.5;
+  
+
+
+}
+
+
+
+.parent {
+   
+    width: 320px;
+    height: 280px;
+    margin-left:-9px;
+    overflow: hidden;
+    position: relative;
+    float: left;
+    
+    
+
+    
+}
+
+
+.wrapper4{
+          background-image: url("../images/science.jpg"); 
+          background-size: cover;
+          background-position: center;
+          opacity: 1;
+          width: 100%;
+          height: 100%;
+          margin: 9px;
+          transition: all .5s;
+          
+         
+          
+}
+.parent:hover .wrapper4,.parent:hover .wrapper5,.parent:hover .wrapper6,
+.parent:focus .wrapper4,.parent:focus .wrapper5,.parent:focus .wrapper6{
+  transform: scale(1.1);
+}
+
+
+.wrapper5{
+	      position: relative;
+          background-image: url("../images/art.jpg"); 
+          background-size: cover;
+          background-position: center top;
+          opacity: 1;
+          width: 100%;
+          height: 100%;
+          margin:9px;
+          transition: all .5s;
+          
+}
+.overlay1{
+ 	
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color:#3C7743;
+  opacity:0.49 ;
+      
+}
+
+.wrapper6{
+
+          background-image: url("../images/music.jpg"); 
+          background-color: red;
+          background-size: cover;
+          background-position:center;
+          opacity:1;
+          width: 100%;
+          height: 100%;
+          margin:9px;
+          transition: all .5s;
+          
+}
+
+
+
+
+
+ .wrapper1:hover{
+	      transition: .3s;
+          margin: -20px 0 20px 0;
+         
+}
+.wrapper2:hover{
+	      transition: .3s;
+          margin: -20px 0 20px 0;
+          
+}
+.wrapper3:hover{
+	      transition: .3s;
+          margin: -20px 0 20px 0;
+        
+}
+
+a:hover{
+         text-decoration: underline;
+         text-decoration-color: black;
+}
+.form-group{
+                background-color: #d3d3d3;
+                padding: 7px;
+                border-radius: 2%;
+                border:solid 1px white;
+}
+
+.back{
+                   background-image: url("../images/school_back.jpg"); 
+                   background-size:cover;
+                   background-position:center;
+                   position: relative;
+                   opacity:1;
+                   padding-bottom: 100px;
+                  
+}
+.back1{
+                   background-image: url("../images/mathematics-lg.jpg"); 
+                   background-size:cover;
+                   background-position:center;
+                   position: relative;
+                   padding-bottom: 100px;
+                  
+}
+.back2{
+                   background-image: url("../images/literature.jpg"); 
+                   background-size:cover;
+                   background-position:center;
+                   position: relative;
+                   padding-bottom: 150px;
+                  
+}
+
+.back_hist{
+              background-image: url("../images/history-lg.jpg"); 
+              background-size:cover;
+              background-position :center;
+              position: relative;
+              padding-bottom: 100px;
+
+}
+
+.back_geo{
+              background-image: url("../images/world-lg.jpg"); 
+              background-repeat: repeat;
+              background-position :center ;
+              position: relative;
+              padding-bottom: 100px;
+
+}
+.back_science{
+              background-image: url("../images/back-science.jpg"); 
+              background-size:contain;
+              background-position : center;
+              position: relative;
+              padding-bottom: 100px;
+
+}
+.back_art{
+              background-image: url("../images/painting.jpg"); 
+              background-size:cover;
+              background-position :left top;
+              position: relative;
+              padding-bottom: 100px;
+
+}
+.back_classic{
+              background-image: url("../images/classic.jpg"); 
+              background-size:cover;
+              background-position :center;
+              position: relative;
+              padding-bottom: 100px;
+
+}
+
+
+
+.container-fluid{
+                  padding-top: 20px;
+                  margin-top: -30px;
+}
+
+hr.line{
+       border-top: 1px solid red;
+}
+.par1{
+        
+        font-family: "Roboto";
+        color: #000;
+}
+
+footer{
+          background-color: #808080;
+          color: #fff;
+          font-family: Roboto;
+          font-size: 14px;
+          font-weight: 600px;
+
+}
+rect{
+      fill:#89EAFF;
+      fill-opacity:0.3;
+}
+ 
+
+

@@ -1,0 +1,78 @@
+
+/* Iphone and Smartphones */
+
+@media (max-width: 600px) {
+	
+button.btn.btn-success.log {
+	        margin-left: 120px;
+	        margin-bottom: 10px;
+}
+button.btn.btn-success.prof {
+	        margin-left: 120px;
+	        margin-bottom: 10px;
+}
+.btn.btn-primary.l2,.btn.btn-success.prof1,.btn.btn-primary.geo,.btn.btn-success.logo {
+	        
+	        margin-bottom: 10px;
+	        margin-left: 100px;
+}
+h2.center{
+	       margin-left: 100px;
+}
+
+
+
+}
+
+
+
+
+
+/* Potrait for iphone*/
+@media  (min-height:375px) and (max-height:  400px)  {
+.wrapper1,.wrapper2,.wrapper3,.wrapper4,.wrapper5,.wrapper6,.parent{
+	      width:200px;
+	     
+}
+
+button.btn.btn-success.prof {
+	        margin-left: 100px;
+	        
+}
+h2.general{
+	margin-left: -2px;
+}
+h2.general1{
+	 margin-left: -2px;
+}
+h2.general2{
+	 margin-left: -1px;
+}
+
+
+}
+
+
+
+
+/* Ipad and Ipad pro */ 
+@media (min-width: 700px) and (max-width:1024px ) {
+
+.wrapper1,.wrapper2,.wrapper3,.wrapper4,.wrapper5,.wrapper6,.parent{
+	      width:224px;
+} 
+button.btn.btn-success.prof {
+	        margin-left: 120px;
+	        
+}
+
+
+.admin-user-thumbnail.user_image.profile{
+
+        margin-left: -100px;
+
+
+}
+
+
+}

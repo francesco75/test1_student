@@ -1,0 +1,7 @@
+
+
+- Profile.php responsive - Done
+- Update.php responsive  - Done
+
+- Deploy Heroku platform 
+- Check the student image path
