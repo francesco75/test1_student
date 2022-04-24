@@ -1,5 +1,5 @@
 
-<?php include("admin/header.php"); ?>
+<?php include("includes/header.php"); ?>
 
 <body>
     <?php include("admin/includes/jumbotron.php"); ?>
