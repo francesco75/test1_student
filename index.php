@@ -2,7 +2,7 @@
 <?php include("includes/header.php"); ?>
 
 <body>
-    <?php include("admin/includes/jumbotron.php"); ?>
+    <?php include("includes/jumbotron.php"); ?>
     <div class="back2"><div class="overlay3"></div>
      <div class="container-fluid">
         <div class="row">
