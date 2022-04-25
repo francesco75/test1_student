@@ -1,10 +1,6 @@
 
 <?php include("includes/header.php"); ?>
 
-<body>
-    <?php include("includes/jumbotron.php"); ?>
-    <div class="back2"><div class="overlay3"></div>
-     <div class="container-fluid">
         <div class="row">
             <div class="col-md-5"></div>
             <div class="col-md-4"><h2 class="center">Student</h2><br></div> 

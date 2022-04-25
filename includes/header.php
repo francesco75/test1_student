@@ -24,3 +24,7 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
      <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>   
 </head>
+<body>
+    <?php include("jumbotron.php"); ?>
+    <div class="back2"><div class="overlay3"></div>
+     <div class="container-fluid">
