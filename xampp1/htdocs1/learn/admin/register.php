@@ -11,7 +11,14 @@ if (isset($_POST['submit'])){
     $student->last_name=trim($_POST['last_name']);
     $student->password=trim($_POST['password']);
     $student->age=$_POST['age'];
-    
+    $student->va=0;
+    $student->vg=0;
+    $student->vgeo=0;
+    $student->vh=0;
+    $student->vs=0; 
+    $student->vart=0; 
+    $student->vmus=0; 
+
     $student->last_name=$database->escape_string($student->last_name);
     $student->password=$database->escape_string($student->password);
 
