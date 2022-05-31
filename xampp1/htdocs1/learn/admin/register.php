@@ -66,7 +66,7 @@ else{
 
   <div class="col-md-4">
 
-<form  action="register.php" method="post" enctype="multipart/form-data">
+<form  action="" method="post" enctype="multipart/form-data">
       <?php  echo  $message; ?>
     <label for="firstname">First Name</label>
     <input type="text" class="form-control" name="first_name" value="" ><br>
