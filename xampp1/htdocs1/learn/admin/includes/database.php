@@ -9,9 +9,9 @@ public $connection;
  }
  public  function open_db_connection(){
  
-     include("config.php"); 
- 	$this->connection=new mysqli(DB_HOST,DB_USER,DB_PASS,DB_NAME);
- 	//$this->connection=new mysqli($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
+   include("config.php");
+ 	//$this->connection=new mysqli(DB_HOST,DB_USER,DB_PASS,DB_NAME);
+ 	$this->connection=new mysqli($cleardb_server, $cleardb_username, $cleardb_password, $cleardb_db);
 if($this->connection->connect_errno){
 	  die("Database connection failed ". $this->conection->connect_errno);
 }
