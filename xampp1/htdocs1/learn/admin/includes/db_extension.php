@@ -65,8 +65,8 @@ public function upload_photo(){
             $this->errors[]= "the file was not avaiable ";
             return false;
          } 
-         
-         $target_path= SITE_ROOT . DS . 'admin' . DS . $this->upload_directory . DS . $this->photo;
+         $destination_path = getcwd().DIRECTORY_SEPARATOR;
+         $target_path= $destination_path . DS . 'admin' . DS . $this->upload_directory . DS . $this->photo;
          if(file_exists($target_path)){
             $this->errors[]= " The file {$this->photo} already exists";
             return false;

@@ -3,7 +3,7 @@
 
 defined('DS') ? null : define('DS', DIRECTORY_SEPARATOR);
 
-define('SITE_ROOT', DS . 'xampp1' . DS .'htdocs1' . DS . 'learn' . DS . 'test1-student-app.herokuapp.com');
+define('SITE_ROOT', DS . 'xampp1' . DS .'htdocs1' . DS . 'learn' );
 
 //defined('INCLUDES_PATH') ? null : define('INCLUDES_PATH', SITE_ROOT . DS .'includes');
 
