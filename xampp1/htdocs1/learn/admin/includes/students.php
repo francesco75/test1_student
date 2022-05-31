@@ -6,7 +6,7 @@
 class Students extends Db_extension
 {
 protected static  $db_table="students";    
-protected static $db_table_fields=array('first_name','last_name','password','age','photo'); 
+protected static $db_table_fields=array('first_name','last_name','password','age','photo','va','vg','vh','vgeo','vs','vart','vmus'); 
 public $id;
 public $first_name;
 public $last_name;	
