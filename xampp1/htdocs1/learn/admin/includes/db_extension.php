@@ -66,7 +66,7 @@ public function upload_photo(){
             return false;
          } 
          $destination_path = getcwd().DIRECTORY_SEPARATOR;
-         $target_path= $destination_path . DS . 'admin' . DS . $this->upload_directory . DS . $this->photo;
+         $target_path= $destination_path . DS .  $this->upload_directory . DS . $this->photo;
          if(file_exists($target_path)){
             $this->errors[]= " The file {$this->photo} already exists";
             return false;
