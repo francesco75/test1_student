@@ -174,6 +174,8 @@ $properties= $this->clean_properties();
 
 $sql= "INSERT INTO " .static::$db_table . "(" . implode(",",array_keys($properties)) . ")";
 $sql.="VALUES ('". implode("','",array_values($properties)) ."')";
+$sql= "ALTER TABLE " .static::$db_table .  AUTO_INCREMENT =1;
+
 
 if($database->query($sql)){
 
