@@ -174,7 +174,7 @@ $properties= $this->clean_properties();
 
 $sql= "INSERT INTO " .static::$db_table . "(" . implode(",",array_keys($properties)) . ")";
 $sql.="VALUES ('". implode("','",array_values($properties)) ."')";
-$sql= " SET auto_increment_increment=1 ";
+
 
 
 
