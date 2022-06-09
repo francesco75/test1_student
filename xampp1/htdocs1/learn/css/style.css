@@ -83,7 +83,13 @@ footer{
 }
 
     
-    
+    .content {
+              width: 20px;
+              height: 20px;
+              margin: 10px;
+              text-align: center;
+
+  } 
   /* Facebook */
 .fa-facebook {
   background: #3B5998;

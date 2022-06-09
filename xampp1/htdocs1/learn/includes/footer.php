@@ -2,7 +2,7 @@
         <div class="py-3 text-center">
          <hr>
          Copyright @ Francesco Scollo<br>
-         <a href="https://www.facebook.com/francesco.scollo1/" target="_blank"   class="fa fa-facebook" ></a>
+        <a href="https://www.facebook.com/francesco.scollo1/" target="_blank"   class="fa fa-facebook" ></a>
         <a href="https://twitter.com/FrancescoScoll2" target="_blank" class="fa fa-twitter"></a>
         <a href="https://www.linkedin.com/in/francesco-scollo-9b69bb103/" target="_blank" class="fa fa-linkedin" ></a>
         <a href="#" class="fa fa-youtube"></a>
