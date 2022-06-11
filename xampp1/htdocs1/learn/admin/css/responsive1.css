@@ -82,9 +82,9 @@ button.btn.btn-success.prof {
 .wrapper1,.wrapper2,.wrapper3,.wrapper4,.wrapper5,.wrapper6,.parent{
 	      width:150px;
 }
-.general{margin-right: -100px}
-.general1{margin-right:-100px}
-.general2{margin-right: -100px}
+.general{margin-right: 100px}
+.general1{margin-right:100px}
+.general2{margin-right: 100px}
 button.btn.btn-success.prof {
 	        margin-left: 120px;
 	        
