@@ -11,7 +11,7 @@
              <div class="col-sm-3"></div>  
         </div>
         <div class="row">
-            <?php if($session->is_signed_in()):?>            
+            <?php //if($session->is_signed_in()):?>            
                 <div class="col-sm-5"></div>
                 <div class="col-sm-1"><a href="logout.php"><button type="button" class="btn btn-success log" >Logout</button></a></div>
                 <div class="col-sm-6"><a href="profile.php"><button type="button" class="btn btn-success prof" >Profile</button></a></div>
@@ -38,7 +38,7 @@
             <div class="col-sm-3 " ><div class="parent"><a href="music.php"><div class="wrapper6"><h2 class="general2">Music</h2></div></a></div></div>
             <div class="col-sm-1"></div>
         </div>          
-            <?php endif;?>
+            <?php //endif;?>
         </div>
      </div>
      <?php include("includes/footer.php"); ?>
