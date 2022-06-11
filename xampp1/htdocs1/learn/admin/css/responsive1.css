@@ -52,17 +52,11 @@ h2.general2{
 
 }
 
-@media (min-width: 600px) and (max-width:604px ) {
-
-.wrapper1,.wrapper2,.wrapper3,.wrapper4,.wrapper5,.wrapper6,.parent{
-	      width:224px;
-} 
-}
 
 
 
 /* Ipad and Ipad pro */ 
-@media (min-width: 700px) and (max-width:1024px ) {
+@media (min-width: 600px) and (max-width:1024px ) {
 
 .wrapper1,.wrapper2,.wrapper3,.wrapper4,.wrapper5,.wrapper6,.parent{
 	      width:224px;
