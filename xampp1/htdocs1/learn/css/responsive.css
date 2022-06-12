@@ -33,7 +33,7 @@ button.btn.btn-success.link1 {
 }
 
 /* Ipad and Ipad pro */
-@media (min-width: 600px) and (max-width:1024px ) {
+@media (min-width: 700px) and (max-width:1024px ) {
 
  
 button.btn.btn-success.link1 {
@@ -56,4 +56,15 @@ button.btn.btn-success.link1 {
 
 
 }
+/* Asus Nexus 7 (V1) */
+@media (min-width: 604px) and (max-height: 967px ){
+
+     button.btn.btn-success.link {
+	        margin-bottom: 10px;
+       }
+
+
+}
+
+
 
