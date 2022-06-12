@@ -76,7 +76,7 @@ button.btn.btn-success.link1 {
 
 
 
-@media  (max-height: 1280px ){
+@media  (min-height: 1280px ){
 
      button.btn.btn-success.link {
 	        margin-bottom: 10px;
