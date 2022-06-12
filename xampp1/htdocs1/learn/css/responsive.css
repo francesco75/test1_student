@@ -42,3 +42,18 @@ button.btn.btn-success.link1 {
 }
 
 }
+
+@media (min-height:  389px) and (max-height: 390px ) {
+
+   button.btn.btn-success.link {
+	        margin-left: 100px;
+	        margin-bottom: 10px;
+       }
+   button.btn.btn-success.link1 {
+	        margin-left: 100px;
+	        
+}
+
+
+}
+
