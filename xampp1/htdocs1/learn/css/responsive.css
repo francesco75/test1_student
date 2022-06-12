@@ -68,9 +68,9 @@ button.btn.btn-success.link1 {
 
 }
 
+/* Microsoft Surface Pro */
 
-
-@media  (min-height: 1280px ){
+@media  (max-height: 1280px ){
 
      button.btn.btn-success.link {
 	        margin-bottom: 10px;
