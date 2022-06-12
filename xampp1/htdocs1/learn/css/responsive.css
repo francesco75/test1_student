@@ -61,6 +61,14 @@ button.btn.btn-success.link1 {
 
      button.btn.btn-success.link {
 	        margin-bottom: 10px;
+	        margin-left: 100px;
+       }
+       button.btn.btn-success.link1 {
+	        margin-left: 100px;
+	        
+       }
+       h2.center{
+       	          text-align: center;
        }
 
 
