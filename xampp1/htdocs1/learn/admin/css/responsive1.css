@@ -1,6 +1,14 @@
 
 /* Iphone and Smartphones */
+@media (max-width: 320px) {
 
+.wrapper1,.wrapper2,.wrapper3,.wrapper4,.wrapper5,.wrapper6,.parent{
+	      width:250px;
+	     
+}
+
+
+}
 @media (max-width: 600px) {
 	
 button.btn.btn-success.log {
