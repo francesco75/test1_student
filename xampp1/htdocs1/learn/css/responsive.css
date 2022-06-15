@@ -68,9 +68,9 @@ button.btn.btn-success.link1 {
 
 }
 
-/* Microsoft Surface Pro */
+/* Microsoft Surface Pro  Remember to fix it*/
 
-@media  (min-height: 1280px ){
+@media  (min-width:  1024px ){
 
      button.btn.btn-success.link {
 	        margin-bottom: 10px;
