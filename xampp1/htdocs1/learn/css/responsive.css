@@ -51,7 +51,7 @@ button.btn.btn-success.link1 {
 
 }
 /* Blackberry classic */
-@media (min-width: 389px) and (max-height: 391px ) {
+@media (min-width: 346px) and (max-height: 391px ) {
 
    button.btn.btn-success.link {
 	        margin-left: 100px;
