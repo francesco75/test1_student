@@ -72,7 +72,7 @@ button.btn.btn-success.link1 {
 
 /* Microsoft Surface Pro  Remember to fix it*/
 
-@media  (max-width:  1600px ){
+@media  (min-width:  1025px ){
 
      button.btn.btn-success.link {
 	        
