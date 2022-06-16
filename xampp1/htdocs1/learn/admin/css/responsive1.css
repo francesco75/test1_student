@@ -108,3 +108,11 @@ button.btn.btn-success.prof {
 
 
 }
+/* Large Screen */
+@media(min-width:3840px ){
+      .form-group{
+      	             width: 700px;
+      }
+}
+
+
