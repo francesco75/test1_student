@@ -90,9 +90,7 @@ button.btn.btn-success.prof {
 .wrapper1,.wrapper2,.wrapper3,.wrapper4,.wrapper5,.wrapper6,.parent{
 	      width:170px;
 }
-.general{margin-left: 100px}
-.general1{margin-left:100px}
-.general2{margin-left: 100px}
+.general,.general1,.general2{margin-left: 1px}
 button.btn.btn-success.prof {
 	        margin-left: 120px;
 	        
