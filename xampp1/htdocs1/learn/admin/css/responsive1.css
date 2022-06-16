@@ -94,6 +94,12 @@ button.btn.btn-success.prof {
 button.btn.btn-success.prof {
 	        margin-left: 120px;
 	        
-} 
+}
+.btn.btn-primary.l2,.btn.btn-success.prof1,.btn.btn-primary.geo,.btn.btn-success.logo {
+	        
+	        margin-bottom:2px;
+	        
+}
+
 
 }
