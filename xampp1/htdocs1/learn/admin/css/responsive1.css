@@ -117,7 +117,9 @@ button.btn.btn-success.prof {
 	          width: 240px;
 	          margin-left: -100px;
 }
-
+.btn.btn-success.logo.prof{
+	                         margin-left: 20px;
+}
 }
 
 /* Large Screen */
