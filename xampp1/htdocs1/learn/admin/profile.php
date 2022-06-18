@@ -23,7 +23,8 @@ $student_found= Students::find_by_student($_SESSION['user_id']);
             <div class="col-sm-2"><a class="btn btn-success prof1" href="test.php">Test</a> 
             </div>
             <div class="col-sm-4"><h2 class="center">Student</h2><br></div> 
-             <div class="col-sm-3"><div class="col-sm-1"><a href="logout.php"><button type="button" class="btn btn-success logo" >Logout</button></a></div>                 
+             <div class="col-sm-3">
+             <a href="logout.php"><button type="button" class="btn btn-success logo" >Logout</button></a>                 
              </div>  
         </div>
         <div class="row">
