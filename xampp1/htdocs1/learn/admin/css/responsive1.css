@@ -105,7 +105,13 @@ button.btn.btn-success.prof {
 	        margin-bottom:4px;
 	        
 }
-
+.table{
+	     margin-left: -30px;
+}
+.user_image{
+	          width: 240px;
+	          margin-left: -100px;
+}
 
 }
 /* Large Screen */

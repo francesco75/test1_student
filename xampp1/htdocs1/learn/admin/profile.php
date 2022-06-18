@@ -15,7 +15,6 @@ $student_found= Students::find_by_student($_SESSION['user_id']);
 
 
 <body>
-    <?php if ($student_found): ?>
     <?php include("includes/jumbotron.php"); ?>
     <div class="back2"><div class="overlay3"></div>
      <div class="container-fluid">
@@ -102,6 +101,3 @@ $student_found= Students::find_by_student($_SESSION['user_id']);
      </div>
 </div>
      <?php include("includes/footer.php"); ?>
-     <?php else:?>
-        <p>No Profile</p>
-     <?php endif;?>
