@@ -122,6 +122,16 @@ button.btn.btn-success.prof {
 }
 }
 
+@media (min-width: 700px) and (max-width:820px ){
+
+    .btn.btn-success.logo.prof{
+	                         margin-left: 20px;
+}
+
+
+}
+
+
 /* Large Screen */
 @media(min-width:3840px ){
       .form-group{
