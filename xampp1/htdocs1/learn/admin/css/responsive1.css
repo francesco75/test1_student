@@ -105,6 +105,11 @@ button.btn.btn-success.prof {
 	        margin-bottom:4px;
 	        
 }
+
+}
+
+
+@media (min-width: 599px) and (max-width:690px ){
 .table{
 	     margin-left: -30px;
 }
@@ -114,6 +119,7 @@ button.btn.btn-success.prof {
 }
 
 }
+
 /* Large Screen */
 @media(min-width:3840px ){
       .form-group{
