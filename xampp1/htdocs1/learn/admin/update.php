@@ -40,7 +40,7 @@ if($student_update){
 
      <body>
         <?php include("includes/jumbotron.php"); ?>
-                <div class="back2"><div class="overlay3"></div>
+            <div class="back2"><div class="overlay3"></div>
              <div class="container-fluid">
                   
                 <!-- Page Heading -->
@@ -89,5 +89,7 @@ if($student_update){
                 <!-- /.row -->
 
             </div>
+          </div>
+          
             <!-- /.container-fluid -->
   <?php include("includes/footer.php"); ?>
