@@ -139,7 +139,7 @@ button.btn.btn-success.prof {
       }
 }
 
-@media(min-width:2000px ){
+@media(min-width:1920px ){
 
 .back_geo{
               background-image: url("../images/world.jpg"); 
