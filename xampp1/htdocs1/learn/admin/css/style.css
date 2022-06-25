@@ -277,8 +277,8 @@ a:hover{
               padding-bottom: 100px;
 
 }
-@media(max-width:2000px ){
-
+/*@media(max-width:2000px ){
+*/
 .back_geo{
               background-image: url("../images/world-lg.jpg"); 
               background-repeat: repeat;
@@ -287,8 +287,8 @@ a:hover{
               padding-bottom: 100px;
 
 }
-}
-.back_science{
+/*}
+*/.back_science{
               background-image: url("../images/back-science.jpg"); 
               background-size:contain;
               background-position : center;
