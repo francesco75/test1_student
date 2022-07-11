@@ -96,7 +96,7 @@ button.btn.btn-success.link1 {
 
 }
 
-@media  (min-height: 900px ){
+@media  (min-width: 900px ){
    .back2{
    	        height: 800px;
    }
