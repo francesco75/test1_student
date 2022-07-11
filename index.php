@@ -16,8 +16,8 @@
                 <div class="col-md-6"></div>
             <?php else:?>
             <div class="col-md-5"></div>
-            <div class="col-md-1 separate"><a  href="admin/register.php"><button type="button" class="btn btn-success link" >Register</button></a></div>
-            <div class="col-md-6 "><a  href="admin/login.php"><button type="button" class="btn btn-success link1" >Login</button></a></div> 
+            <div class="col-md-1 separate"><a  href="xampp1/htdocs1/learn/admin/register.php"><button type="button" class="btn btn-success link" >Register</button></a></div>
+            <div class="col-md-6 "><a  href="xampp1/htdocs1/learn/admin/login.php"><button type="button" class="btn btn-success link1" >Login</button></a></div> 
             <?php endif;?>
         </div>
         <div class="row">
