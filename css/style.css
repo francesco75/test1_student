@@ -40,7 +40,7 @@ h2{
 
 }
 .back2{
-                   background-image: url("../admin/images/literature.jpg"); 
+                   background-image: url("/xampp1/htdocs1/learn/admin/images/literature.jpg"); 
                    background-size:cover;
                    background-position:center;
                    position: relative;

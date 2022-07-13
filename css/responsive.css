@@ -96,11 +96,23 @@ button.btn.btn-success.link1 {
 
 }
 
-@media  (min-width: 900px ){
+@media  (min-width: 900px ) and (max-width:1200px ){
    .back2{
    	        height: 800px;
    }
 
 }
+
+@media  (min-width: 1200px ){
+
+   .back2{
+   	        height:2000px 
+   }
+
+
+}
+
+
+
 
 
