@@ -158,6 +158,12 @@ button.btn.btn-success.prof {
 
 }
 
+@media  (min-width:  1920px ){
+   .back{
+   	        height: 1500px;
+   }
+
+}
 
 
 
