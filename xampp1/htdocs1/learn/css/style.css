@@ -2,7 +2,7 @@
 
 .jumbotron {
 	     background-color: #ffffff;
-       background-image: url("/xampp1/htdocs1/learn/admin/images/classroom.jpg");
+       background-image: url("../admin/images/classroom.jpg");
        background-size: cover;
        background-position: center; 
 
