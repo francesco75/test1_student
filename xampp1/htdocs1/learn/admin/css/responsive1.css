@@ -133,11 +133,6 @@ button.btn.btn-success.prof {
 
 
 /* Large Screen */
-@media(min-width:3840px ){
-      .form-group{
-      	             width: 700px;
-      }
-}
 
 @media(min-width:1920px ){
 
@@ -158,14 +153,24 @@ button.btn.btn-success.prof {
 
 }
 
-@media  (min-width:  1920px ){
+@media  (min-width:  1920px ) and (max-width: 3840px){
    .back{
    	        height: 1500px;
    }
 
 }
 
+@media  (min-width:  3840px ){
+    .back{
+   	        height: 3500px;
+   }
 
+   .form-group{
+      	             width: 700px;
+      }
+
+
+}
 
 
 
