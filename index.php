@@ -12,7 +12,7 @@
         <div class="row">
             <?php if($session->is_signed_in()):?>            
                 <div class="col-md-5">   </div>
-                <div class="col-md-1"><a href="admin/logout.php"><button type="button" class="btn btn-success" >Logout</button></a></div>
+                <div class="col-md-1"><a href="xampp1/htdocs1/learn/admin/logout.php"><button type="button" class="btn btn-success" >Logout</button></a></div>
                 <div class="col-md-6"></div>
             <?php else:?>
             <div class="col-md-5"></div>

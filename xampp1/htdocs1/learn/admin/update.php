@@ -77,11 +77,9 @@ if($student_update){
                          <div class="form-group">
                               <label for="Age">Age</label>
                             <input type="number" name="age" class="form-control" value="<?php echo $student_update->age; ?>" >
-                         </div>
-                        <div class="form-group">
-                            
+                         </div>    
                             <input type="submit" name="update" class="bnt btn-primary pull-right " value="Update" >
-                         </div>
+                        
                      </div>
                 </form>
                     </div>
