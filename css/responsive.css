@@ -103,7 +103,7 @@ button.btn.btn-success.link1 {
 
 }
 
-@media  (min-width: 1920px ){
+@media  (min-width: 1920px ) and (max-width: 5120px){
 
    .back2{
    	        height:2000px 
@@ -112,7 +112,14 @@ button.btn.btn-success.link1 {
 
 }
 
+@media  (min-width: 5120px ){
 
+.back2{
+   	        height:3000px 
+   }
+
+
+}
 
 
 
