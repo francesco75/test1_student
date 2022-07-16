@@ -174,3 +174,22 @@ button.btn.btn-success.prof {
 
 
 
+@media (min-width: 1920px) and (max-width:2560px ){
+
+   .back2{
+
+           height:1000px;
+
+   }
+
+}
+
+@media (min-width: 2560px){
+
+    .back2{
+
+           height:3000px;
+
+   }
+
+}
