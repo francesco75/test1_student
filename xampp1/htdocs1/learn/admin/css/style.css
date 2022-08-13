@@ -385,4 +385,15 @@ rect{
   background: #cb2027;
   color: white;
 }
+#countdown{
+      position: fixed;
+      padding-left:3px;
+      padding-right:3px;  
+      margin-left: 245px;
+      font-size:20px; 
+      font-weight: bold;
+      background-color: white;
+
+}
+ 
 

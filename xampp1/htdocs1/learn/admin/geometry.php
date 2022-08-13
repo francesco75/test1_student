@@ -9,7 +9,9 @@
      <div class="container-fluid ">
         <div class="row">
             <div class="col-md-5"></div>
-            <div class="col-md-4"><h2>  Test Math</h2><br></div> 
+            <div class="col-md-4"><h2>  Test Math</h2>
+                
+              <br></div> 
              <div class="col-md-3"></div>  
         </div>
 
@@ -28,6 +30,8 @@
              <div class="col-md-4 ">
                         <br>
                         <h3>Basic  Geometry</h3><br>
+                               <?php include("includes/timer.php"); ?>
+                        
                             <div id="demo"></div>
                      <form method="post"  action="" >
                               
