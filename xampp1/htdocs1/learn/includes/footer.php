@@ -12,7 +12,7 @@
          </div> 
      </footer>   
  </body>
- <script src="js/timer.js">
+ <script src="js/timer.js"></script>
  <script type="text/javascript">
     google.charts.load("current", {packages:["corechart"]});
     google.charts.setOnLoadCallback(drawChart);
