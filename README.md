@@ -144,12 +144,11 @@ The Website  provides Users Database with  registration  login and the logout.
       - Medium Commit:  Add responsive test
       - Final commit: Add responsive test
       - Final : Add the Readme.md     
-  - Heroku
-      - Add all the files and composer.json
-      - Create ClearDB MySql - Ignite Free-
-      - Transfer user  password database from ClearDB MySql   on my server and add 
-          my config.php on my localhost phpMyAdmin.
-      - Change my config.php with all the user password and dbClear. 
+  - OOOWebHost
+      - Add all the files platform OOOWebHost
+      - Create the database    on my platform and add 
+          my config.php.
+      - Change my config.php with  the user and password. 
       - Final Deployment.  
 ### Demo
-   - [https://test1-student-app.herokuapp.com/](https://test1-student-app.herokuapp.com/)
+   - [https://parsonical-accounti.000webhostapp.com/](https://parsonical-accounti.000webhostapp.com/)

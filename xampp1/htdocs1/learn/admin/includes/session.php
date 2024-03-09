@@ -40,12 +40,6 @@ private function check_message(){
 
 }
 
-
-
-
-
-
-
 public function is_signed_in(){
 	return $this->signed_in;
 }
